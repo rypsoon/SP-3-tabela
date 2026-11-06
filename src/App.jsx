@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="container mt-3">
-      <h1>Działa!</h1>
+      <h1>Działa z Bootstrapem!</h1>
     </div>
   );
 }
